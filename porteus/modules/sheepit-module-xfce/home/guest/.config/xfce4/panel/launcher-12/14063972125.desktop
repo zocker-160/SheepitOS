@@ -1,0 +1,8 @@
+ [Desktop Entry]
+Version=1.0
+Type=Application
+Exec=xfce4-taskmanager
+Icon=/home/guest/TaskManager.png
+StartupNotify=true
+Terminal=false
+Name=Task Manager

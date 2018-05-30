@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[de_DE]=
+Comment=
+Exec=/home/guest/SheepitClient.sh
+#Exec=firefox
+GenericName[de_DE]=
+GenericName=
+MimeType=
+Name[de_DE]=SheepitClient
+Name=SheepitClient
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

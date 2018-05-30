@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Firefox
+Exec=firefox
+Terminal=false
+Icon=/home/guest/firefox.png
+Type=Application
+Categories=System;
+Version=1.0

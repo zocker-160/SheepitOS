@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=xfce4-taskmanager
+Name=TaskManager
+StartupNotify=true
+Type=Application
+Version=1.0
