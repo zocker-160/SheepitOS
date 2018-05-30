@@ -6,7 +6,7 @@ SheepitOS is a very lightweight Distro based on Porteus / Slackware for the free
 
 ### Versions
 
-There will be a CLI version of it very soon.
+This is the XFCE version, you can find the CLI version [here](https://github.com/zocker-160/SheepitOS/tree/CLI).
 
 ## Usage
 
