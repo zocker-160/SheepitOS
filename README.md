@@ -12,7 +12,7 @@ This is the CLI version, you can find the XFCE version [here](https://github.com
 
  - Download the ISO and extract it (e.g. with Ark or 7zip) to a FAT32 formatted USB drive.
  - Boot from it
- - start the client with `./renderclient.sh`
+ - start the client with `./SheepitClient.sh [username]`
  - enjoy xD
 
 ### System requirements
